@@ -1,2 +1,2 @@
-# IEE-HACKATHON
+# IEEE-HACKATHON
 IEEE hackathon stuff
